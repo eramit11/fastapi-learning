@@ -2,6 +2,8 @@
 
 A modern, interactive, and beautifully designed website for learning FastAPI from scratch. Perfect for beginners, developers, and anyone interested in building high-performance APIs with Python.
 
+https://claude.ai/public/artifacts/fd433813-0a07-4dfc-a3ae-e3e6c1be1730
+
 ## ✨ Features
 
 ### 🎨 **Modern UI/UX Design**
