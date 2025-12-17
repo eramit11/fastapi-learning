@@ -1,4 +1,4 @@
-# FastAPI Complete Guide - Learning Website 🚀
+# FastAPI Complete Guide - 🚀
 
 A modern, interactive, and beautifully designed website for learning FastAPI from scratch. Perfect for beginners, developers, and anyone interested in building high-performance APIs with Python.
 
@@ -63,7 +63,7 @@ Complete FastAPI tutorial covering:
 1. **Clone or Download**
    ```bash
    # Clone the repository
-   git clone https://github.com/yourusername/fastapi-learning-website.git
+   git clone https://github.com/eramit11/fastapi-learning.git
    
    # Navigate to project directory
    cd fastapi-learning-website
