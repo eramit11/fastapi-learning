@@ -89,7 +89,7 @@ Complete FastAPI tutorial covering:
 ## 📁 Project Structure
 
 ```
-fastapi-learning-website/
+fastapi-learning/
 │
 ├── index.html          # Main HTML file with all content
 ├── README.md           # Project documentation
@@ -269,10 +269,6 @@ git push origin feature/your-feature-name
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License** - feel free to use it for personal or commercial projects.
-
 ---
 
 ## 🙏 Acknowledgments
@@ -283,14 +279,6 @@ This project is licensed under the **MIT License** - feel free to use it for per
 
 ---
 
-## 📧 Contact
-
-Have questions or suggestions?
-
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: @yourusername
-- 💼 LinkedIn: linkedin.com/in/yourusername
-- 🌐 Website: yourwebsite.com
 
 ---
 
@@ -340,7 +328,7 @@ Planned features:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/fastapi-learning-website.git
+git clone https://github.com/eramit11/fastapi-learning.git
 
 # Open in browser
 cd fastapi-learning-website
